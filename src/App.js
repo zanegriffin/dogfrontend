@@ -7,7 +7,7 @@ import Form from "./Form";
 function App() {
 
 // URL VARIABLE
-const url = "http://localhost:4500";
+const url = "https://zanedogsbackend.herokuapp.com";
 // LIST OF DOGS STATE
 const [dogs, setDogs] = React.useState([]);
 //empty dog for form
